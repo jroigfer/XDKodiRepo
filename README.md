@@ -1,2 +1,2 @@
-# xusmenKodiRepo
+# XDKodiRepo
 Repo addons kodi
