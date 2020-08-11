@@ -1,2 +1,0 @@
-# XDKodiRepo
-Repo addons kodi
