@@ -1,6 +1,7 @@
 lsi: false
 safe: true
 source: .
+exclude: ["notes"]
 incremental: false
 highlighter: rouge
 gist:
