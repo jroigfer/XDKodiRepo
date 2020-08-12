@@ -1,0 +1,8 @@
+jekyll usage:
+https://jekyllrb.com/docs/installation/
+
+create static fies:
+jekyll serve --config _alternative_config.yml
+
+examples:
+https://jekyllrb.com/docs/configuration/default/
