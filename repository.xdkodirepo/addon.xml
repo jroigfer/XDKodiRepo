@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.xdkodirepo" version="20.8.12" name="XDKodiRepo repository" provider-name="xusmendev">
+<addon id="repository.xdkodirepo" version="20.8.13" name="XDKodiRepo repository" provider-name="xusmendev">
 	<extension point="xbmc.addon.repository" name="XDKodiRepo repository">
 		<info compressed="false">https://raw.githubusercontent.com/jroigfer/XDKodiRepo/gh-pages/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/jroigfer/XDKodiRepo/gh-pages/addons.xml.md5</checksum>
